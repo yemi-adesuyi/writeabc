@@ -9,6 +9,7 @@
   <licenses>
     <license>
       <name>My License</name>
+      <name>My License</name 2
       <url>http://....</url>
       <distribution>repo</distribution>
     </license>
